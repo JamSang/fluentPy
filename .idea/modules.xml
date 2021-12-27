@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/fluentPy.iml" filepath="$PROJECT_DIR$/.idea/fluentPy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fluentPy_/.idea/fluentPy_.iml" filepath="$PROJECT_DIR$/../fluentPy_/.idea/fluentPy_.iml" />
+    </modules>
+  </component>
+</project>
